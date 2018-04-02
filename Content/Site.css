@@ -101,8 +101,8 @@ h6,
     }
 
 .btn {
-    font-size: 17px;
-    padding: 7px 20px;
+    padding: 5px 10px;
+    font-size: 12px;
     border-radius: 10px;
     -ms-border-radius: 10px;
 }
