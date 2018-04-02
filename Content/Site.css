@@ -28,6 +28,30 @@ span.field-validation-error {
     font-weight: bold;
 }
 
+.voofset {
+    margin-top: 2px; 
+}
+
+.voofset1 {
+    margin-top: 5px;
+}
+
+.voofset2 {
+    margin-top: 10px;
+}
+
+.voofset3 {
+    margin-top: 20px;
+}
+
+.voofset4 {
+    margin-top: 40px;
+}
+
+.voofset5 {
+    margin-top: 80px;
+}
+
 /* Bootstrap Overrides*/
 
 .navbar-inverse {
